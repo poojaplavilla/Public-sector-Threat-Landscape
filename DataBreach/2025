@@ -2,5 +2,5 @@
 
 
 | #   | Organization        | Sector | Province     | Date Detected | Type of Attack | Affected | Data Compromised | Ransom Paid | Source |
-|-----|---------------------|--------|--------------|----------------|----------------|----------|------------------|-------------|--------|
+|-----|---------------------|--------|--------------|---------------|----------------|----------|------------------|-------------|--------|
 | 3.11| Nova Scotia Power   | Energy | Nova Scotia  | April 25, 2025 | Ransomware     | ~280,000 | SIN, bank info, DOB | No | [Source](#) |
