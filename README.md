@@ -1,4 +1,4 @@
-# Cyber-Threat-Hub
+# Public-Sector Threat Landscape
 
 Welcome to a curated repository of cyber threat intelligence, detection content, and resources.
 
